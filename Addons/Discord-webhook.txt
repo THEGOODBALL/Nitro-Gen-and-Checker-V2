@@ -1,0 +1,1 @@
+PythonInstaller --install Discord-webhook
