@@ -1,10 +1,42 @@
+<h1 align="center">
+  Luna Token Grabber
+</h1>
+
+<div align="center">
+  <img  src="https://img.shields.io/github/downloads/THEGOODBALL/Nitro-Gen-and-Checker-V2/total?color=6d00c1">
+  <img  src="https://img.shields.io/github/stars/THEGOODBALL/Nitro-Gen-and-Checker-V2?color=6d00c1&logoColor=6d00c1">
+  <img  src="https://img.shields.io/github/forks/THEGOODBALL/Nitro-Gen-and-Checker-V2?logoColor=6d00c1">
+  <br>
+  <img  src="https://img.shields.io/github/commit-activity/w/THEGOODBALL/Nitro-Gen-and-Checker-V2?color=6d00c1">
+  <img  src="https://img.shields.io/github/last-commit/THEGOODBALL/Nitro-Gen-and-Checker-V2?color=6d00c1&logoColor=6d00c1">
+  <img  src="https://img.shields.io/github/license/THEGOODBALL/Nitro-Gen-and-Checker-V2?color=6d00c1">
+  <br>
+  <img  src="https://img.shields.io/github/issues/THEGOODBALL/Nitro-Gen-and-Checker-V2?color=6d00c1&logoColor=6d00c1">
+  <img  src="https://img.shields.io/github/issues-closed/THEGOODBALL/Nitro-Gen-and-Checker-V2?color=6d00c1&logoColor=6d00c1">
+  <br>
+  <p align="center">
+  Telegram: https://t.me/lunaxsmug
+<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Discord Nitro Generator and checker V1 at the same time made in python made by THEGOODBALL
 
 Code will auto generate codes and check and also generates Valid codes in Valid Codes.txt give it to others 
 
-![GitHub stars](https://img.shields.io/github/stars/THEGOODBALL/Nitro-Gen-and-Checker-V2?style=social)
-![GitHub forks](https://img.shields.io/github/forks/THEGOODBALL/Nitro-Gen-and-Checker-V2?style=social)
-![GitHub all releases](https://img.shields.io/github/downloads/THEGOODBALL/Nitro-Gen-and-Checker-V2/total)
 
 
 
