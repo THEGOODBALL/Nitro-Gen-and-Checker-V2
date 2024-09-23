@@ -1,5 +1,5 @@
 <h1 align="center">
-  Luna Token Grabber
+Nitro-Gen-and-Checker-V2
 </h1>
 
 <div align="center">
