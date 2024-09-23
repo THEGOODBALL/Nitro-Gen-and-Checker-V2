@@ -41,9 +41,14 @@ Code will auto generate codes and check and also generates Valid codes in Valid 
 
 ```
 pip install request
-pip install Discord-webhook
+pip install discord_webhook
+pip install random
+pip install string
+pip install time
+pip install os
+pip install colorama
 
-
+```
 ###### Things You should not do
 - Don't remove credits
 - Don't say u created it when u didn't
