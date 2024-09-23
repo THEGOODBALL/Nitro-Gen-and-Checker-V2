@@ -3,6 +3,9 @@ Discord Nitro Generator and checker V1 at the same time made in python made by T
 Code will auto generate codes and check and also generates Valid codes in Valid Codes.txt give it to others 
 
 ![GitHub stars](https://img.shields.io/github/stars/THEGOODBALL/Nitro-Gen-and-Checker-V2?style=social)
+![GitHub forks](https://img.shields.io/github/forks/THEGOODBALL/Nitro-Gen-and-Checker-V2?style=social)
+![GitHub all releases](https://img.shields.io/github/downloads/THEGOODBALL/Nitro-Gen-and-Checker-V2/total)
+
 
 
 
