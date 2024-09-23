@@ -36,7 +36,12 @@ Discord Nitro Generator and checker V1 at the same time made in python made by T
 Code will auto generate codes and check and also generates Valid codes in Valid Codes.txt give it to others 
 
 
+###### INSTALLTION
 
+
+```
+pip install request
+pip install Discord-webhook
 
 
 ###### Things You should not do
